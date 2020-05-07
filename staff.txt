@@ -1,0 +1,3 @@
+staff=
+{'adeayo':['baba','danace231@gmail.com','Adewumi Adeayo Daniel']}
+{'adeife':['mama','danieladeay@yahoo.com','Adewumi Adeife']}
